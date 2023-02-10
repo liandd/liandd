@@ -9,9 +9,8 @@
 ### Skills
 -  👨‍💻 Java, C++, PHP
 -  👁️ HTML, CSS
--  💽 MongoDB, MariaDB, MySQL
+-  💽 MySQL
 -  👥 UML, DIA
--  👨‍💻 TypeScript, JavaScript, Java, C++, Node
 -  ⚙️ BASH Scripting
 <!--
 **liandd/liandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
