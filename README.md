@@ -7,10 +7,10 @@
 🎯 Mi objetivo es desarrollar mi carrera profesional como Programador en una empresa que me permita aplicar mis conocimientos como ingeniero para así seguir creciendo tanto personal como profesionalmente logrando los mejores resultados posibles.
 
 ### Skills
-- 👨‍💻 Java, C++, PHP
-- 👁️ HTML, CSS
-- 💽 MongoDB, MariaDB, MySQL
-- 👥 UML
+-  👨‍💻 Java, C++, PHP
+-  👁️ HTML, CSS
+-  💽 MongoDB, MariaDB, MySQL
+-  👥 UML, DIA
 <!--
 **liandd/liandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
