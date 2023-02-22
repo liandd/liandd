@@ -7,7 +7,7 @@
 🎯 Mi objetivo es desarrollar mi carrera profesional como Programador en una empresa que me permita aplicar mis conocimientos como ingeniero para así seguir creciendo tanto personal como profesionalmente logrando los mejores resultados posibles.
 
 ### Skills
--  👨‍💻 Java, C++, PHP
+-  👨‍💻 Java, C++, PHP, Python3
 -  👁️ HTML, CSS
 -  💽 MySQL
 -  👥 UML, DIA
