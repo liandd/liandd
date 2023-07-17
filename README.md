@@ -1,4 +1,4 @@
-### 👋 Hola! Soy Juan ### <img src="https://media.giphy.com/media/T3rgaqd1vT6idUS12Q/giphy.gif" width="50"></h1>
+### 👋 Hola! Soy Juan <img src="https://media.giphy.com/media/T3rgaqd1vT6idUS12Q/giphy.gif" width="50"></h1>
 
 🌱 Actualmente estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la Universidad Católica De Pereira.
 
