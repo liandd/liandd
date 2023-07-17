@@ -15,6 +15,7 @@
 - 🌱 Actualmente aprendiendo sobre **Docker, Kubernetes, Amazon AWS, mongodb**
 
 ### Blogs posts
+- 💾 Todas mis publicaciones estan en mi blog [https://liandd.github.io](https://liandd.github.io)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
