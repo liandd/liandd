@@ -21,7 +21,7 @@
 
 <h3 align="left">Mi contenido:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@liandd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="liandd" height="30" width="40" <img src="https://media.giphy.com/media/T3rgaqd1vT6idUS12Q/giphy.gif" width="50">/></a> 
+<a href="https://www.youtube.com/@liandd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="liandd" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Conocimientos en:</h3>
