@@ -9,12 +9,12 @@
 🎯 Mi objetivo es desarrollar mi carrera profesional como Ingeniero en una empresa que me permita aplicar mis conocimientos para así seguir creciendo tanto personal como profesionalmente logrando los mejores resultados posibles.
 
 ### Skills
--  👨‍💻 Java, C++, PHP, Python3
--  👁️ HTML, CSS
--  💽 MySQL
--  👥 UML, DIA
--  ⚙️ BASH Scripting
-- 🌱 Actualmente aprendiendo sobre **Docker, Kubernetes, Amazon AWS, mongodb**
+-  Java, C++, PHP, Python3
+-  HTML, CSS
+-  MySQL
+-  UML, DIA
+-  BASH Scripting
+-  Actualmente aprendiendo sobre **Docker, Kubernetes, Amazon AWS, mongodb**
 
 ### Blogs posts
 - 💾 Todas mis publicaciones estan en mi blog [https://liandd.github.io](https://liandd.github.io)
