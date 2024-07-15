@@ -12,12 +12,9 @@
 - 💾 Todas mis publicaciones estan en mi blog *[https://liandd.github.io](https://liandd.github.io)*
 
 ### 🛠 &nbsp;Skills
--  Java, C++, PHP, Python3
--  HTML, CSS
+-  Java, C++, Python3
 -  MySQL
--  UML, DIA
 -  BASH Scripting
->  Actualmente aprendiendo sobre **Docker, Kubernetes, Amazon AWS, mongodb**
 
 <h3 align="left">Mi contenido:</h3>
 <p align="left">
