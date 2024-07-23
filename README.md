@@ -1,32 +1,45 @@
-### <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> Hola! Soy Juan
-# 
-🌱 Actualmente estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la Universidad Católica De Pereira.
+## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋 
+Actualmente estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la [Universidad Católica De Pereira.](https://ucp.edu.co)
 
-🎓 En estos momentos en mi etapa universitaria hago parte del Grupo de Investigación y Semillero de Programación Competitiva de mi universidad, y obtuve la oportunidad de formar parte de igual forma del Semillero de Programación Competitiva In Silico de la Universidad Tecnológica De Pereira, donde he desarrollado mis habilidades con la lógica de programación, trabajo en equipo y la capacidad de resolver problemas. He participado en diversas competencias de índole nacional, en las cuales nos hemos enfrentado a otros competidores invitados de universidades de México y Argentina.
+En estos momentos en mi etapa universitaria hago parte del `Grupo de Investigación` y `Semillero de Programación Competitiva` de mi universidad, y obtuve la oportunidad de formar parte de igual forma del `Semillero de Programación Competitiva` *In Silico* de la *Universidad Tecnológica De Pereira*, donde he desarrollado mis habilidades con la lógica de programación, trabajo en equipo y la capacidad de resolver problemas. He participado en diversas competencias de índole nacional, en las cuales nos hemos enfrentado a otros competidores invitados de universidades de México y Argentina.
 
-📚 Mi enfoque personal se centra en la Seguridad Informatica, CTFs y aspiro a conseguir diferentes certificaciones del sector como eJPT, eWPT, eCPPT, OSCP. Y las certificaciones de CISCO para redes de datos.
+Mi enfoque personal se centra en la Seguridad Informática, CTFs y aspiro a conseguir diferentes certificaciones del sector como *eJPT*, *eWPT*, *eCPPT*, *OSCP*. Y las certificaciones de *CISCO* para redes de datos.
 
-🎯 Mi objetivo es desarrollar mi carrera profesional como Ingeniero en una empresa que me permita aplicar mis conocimientos para así seguir creciendo tanto personal como profesionalmente logrando los mejores resultados posibles.
+Mi objetivo como Ingeniero es lograr los mejores resultados posibles.
 
-### Blogs posts
-- 💾 Todas mis publicaciones estan en mi blog *[https://liandd.github.io](https://liandd.github.io)*
+### Blogs posts 💾
+Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io)*. 
 
-### 🛠 &nbsp;Skills
--  Java, C++, Python3
--  MySQL
--  BASH Scripting
+![](https://komarev.com/ghpvc/?username=liandd&color=green)
 
-<h3 align="left">Mi contenido:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@liandd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="liandd" height="30" width="40" /> </a> 
+### Skills 🛠
+![C/C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
+### Contacto
+
+<p align = "center">
+  
+[<img src = "https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://liandd.github.io)
+[<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black">](https://x.com/lianndd_) 
+[<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-garciaa2/)
+[<img src = "https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lian.aov/)
+[<img src = "https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black">](https://www.youtube.com/@liandd) 
 </p>
-<img src="https://media.giphy.com/media/T3rgaqd1vT6idUS12Q/giphy.gif" width="50">
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bliandd%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=chartreuse-dark"></p>
-<h3 align="left"> Conocimientos en:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p ><img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=chartreuse-dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"> </p>
+
+
+
+
+
 
 <!--**liandd/liandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
