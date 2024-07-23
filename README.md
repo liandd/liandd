@@ -1,4 +1,7 @@
 ## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AFFD6&width=435&lines=La+fortuna+sonríe.)](https://git.io/typing-svg)
+
 Actualmente estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la [Universidad Católica De Pereira.](https://ucp.edu.co)
 
 En estos momentos en mi etapa universitaria hago parte del `Grupo de Investigación` y `Semillero de Programación Competitiva` de mi universidad, y obtuve la oportunidad de formar parte de igual forma del `Semillero de Programación Competitiva` *In Silico* de la *Universidad Tecnológica De Pereira*, donde he desarrollado mis habilidades con la lógica de programación, trabajo en equipo y la capacidad de resolver problemas. He participado en diversas competencias de índole nacional, en las cuales nos hemos enfrentado a otros competidores invitados de universidades de México y Argentina.
