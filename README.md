@@ -34,12 +34,14 @@ Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io
 [<img src = "https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black">](https://www.youtube.com/@liandd) 
 </p>
 
-<p ><img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=chartreuse-dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"> </p>
+<details>
 
-
-
-
-
+  <summary>Estadísticas Github 📊</summary>
+  
+  | <img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=chartreuse-dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"> |
+| ------------- | ------------- |
+  
+  
+</details>
 
 <!--**liandd/liandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
