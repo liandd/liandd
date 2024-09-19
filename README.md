@@ -33,7 +33,6 @@ Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io
 [<img src = "https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://liandd.github.io)
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black">](https://x.com/lianndd_) 
 [<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-garciaa2/)
-[<img src = "https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lian.aov/)
 [<img src = "https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black">](https://www.youtube.com/@liandd) 
 </p>
 
