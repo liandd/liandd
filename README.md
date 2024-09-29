@@ -1,6 +1,6 @@
 ## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a9362f&width=435&lines=La+fortuna+sonríe.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e82e2e&width=435&lines=La+fortuna+sonríe.)](https://git.io/typing-svg)
 
 Actualmente estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la [Universidad Católica De Pereira.](https://ucp.edu.co)
 
