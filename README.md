@@ -13,15 +13,15 @@ Mi objetivo como Ingeniero es lograr los mejores resultados posibles.
 ### Blogs posts 💾
 Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io)*. 
 
-![](https://komarev.com/ghpvc/?username=liandd&color=green)
+![](https://komarev.com/ghpvc/?username=liandd&color=red)
 
 ### Skills 🛠
-![C/C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)&nbsp;
-![Java](https://img.shields.io/badge/Java-088484?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-088484?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C/C++](https://img.shields.io/badge/-c++-e82e2e?logo=cplusplus&logoColor=white&style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/Java-e82e2e?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-e82e2e?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-e82e2e.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
