@@ -11,7 +11,7 @@ Mi enfoque personal se centra en la Seguridad Informática, CTFs y aspiro a cons
 Mi objetivo como Ingeniero es lograr los mejores resultados posibles.
 
 ### Blogs posts 💾
-Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io)*. 
+> Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io)*. 
 
 ![](https://komarev.com/ghpvc/?username=liandd&color=red)
 
@@ -19,7 +19,10 @@ Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io
 ![C/C++](https://img.shields.io/badge/-c++-e82e2e?logo=cplusplus&logoColor=white&style=for-the-badge)&nbsp;
 ![Java](https://img.shields.io/badge/Java-e82e2e?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-e82e2e?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-e82e2e?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![ML](https://img.shields.io/badge/ML-121011?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![LinuX](https://img.shields.io/badge/LINUX-00000F?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-e82e2e.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -34,6 +37,7 @@ Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black">](https://x.com/lianndd_) 
 [<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-garciaa2/)
 [<img src = "https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black">](https://www.youtube.com/@liandd) 
+[<img src = "https://img.shields.io/badge/Hack The Box-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://app.hackthebox.com/profile/1098514)
 </p>
 
 <details>
