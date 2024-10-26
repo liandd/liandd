@@ -4,7 +4,7 @@
 
 Actualmente estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la [Universidad Católica De Pereira.](https://ucp.edu.co)
 
-En estos momentos en mi etapa universitaria hago parte del `Grupo de Investigación` y `Semillero de Programación Competitiva` de mi universidad, y obtuve la oportunidad de formar parte de igual forma del `Semillero de Programación Competitiva` *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, donde he desarrollado mis habilidades con la lógica de programación, trabajo en equipo y la capacidad de resolver problemas. He participado en diversas competencias de índole nacional, en las cuales nos hemos enfrentado a otros competidores invitados de universidades de México y Argentina.
+Durante mi etapa universitaria, formé parte del `Grupo de Investigación` y del `Semillero de Programación Competitiva` de mi universidad. También tuve la oportunidad de integrarme al `Semillero de Programación Competitiva` *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, donde desarrollé mis habilidades en lógica de programación, trabajo en equipo y resolución de problemas. Participé en diversas competencias de índole nacional, con invitados de universidades de México y Argentina, cerrando un ciclo de crecimiento en programación competitiva.
 
 Mi enfoque personal se centra en la Seguridad Informática, CTFs y aspiro a conseguir diferentes certificaciones del sector como *eJPT*, *eWPT*, *eCPPT*, *OSCP*. Y las certificaciones de *CISCO* para redes de datos.
 
