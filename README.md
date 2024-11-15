@@ -44,8 +44,8 @@ Mi objetivo como Ingeniero es lograr los mejores resultados posibles.
 
   <summary>Estadísticas Github 📊</summary>
   
-  | <img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=chartreuse-dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"> |
-| ------------- | ------------- |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"> |
+| ------------- |
   
   
 </details>
