@@ -1,6 +1,6 @@
 ## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e82e2e&width=435&lines=La+fortuna+sonríe.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8bfca0&width=435&lines=La+fortuna+sonríe.)](https://git.io/typing-svg)
 
 Estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la [Universidad Católica De Pereira.](https://ucp.edu.co)
 
@@ -13,18 +13,18 @@ Mi objetivo como Ingeniero es lograr los mejores resultados posibles.
 ### Blogs posts 💾
 > Todas mis publicaciones estan en mi blog *[Click Aquí](https://liandd.github.io)*. 
 
-![](https://komarev.com/ghpvc/?username=liandd&color=red)
+![](https://komarev.com/ghpvc/?username=liandd&color=green)
 
 ### Skills 🛠
-![C/C++](https://img.shields.io/badge/-c++-e82e2e?logo=cplusplus&logoColor=white&style=for-the-badge)&nbsp;
-![Java](https://img.shields.io/badge/Java-e82e2e?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-e82e2e?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![NLP](https://img.shields.io/badge/NLP-e82e2e?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C/C++](https://img.shields.io/badge/-c++-24d143?logo=cplusplus&logoColor=black&style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/Java-0a8a21?logo=java&logoColor=black&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/Python-07821d?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-17ad32?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![ML](https://img.shields.io/badge/ML-121011?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LinuX](https://img.shields.io/badge/LINUX-00000F?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-e82e2e.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-24d143.svg?style=for-the-badge&logo=latex&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
