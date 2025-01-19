@@ -1,12 +1,12 @@
 ## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8bfca0&width=435&lines=La+fortuna+sonríe.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a8326b&width=435&lines=i+do+linux/+i686/+NLP/+ML/+SQL/+CTF/)](https://git.io/typing-svg)
 
-Estudiante de Ingeniería en Sistemas y Telecomunicaciones en la Facultad de Ingeniería de la [Universidad Católica De Pereira.](https://ucp.edu.co)
+Noveno semestre Ingeniería en Sistemas y Telecomunicaciones en [Universidad Católica De Pereira.](https://ucp.edu.co)
 
-Formé parte del `Grupo de Investigación` y del `Semillero de Programación Competitiva` de mi universidad. También tuve la oportunidad de integrarme al `Semillero de Programación Competitiva` *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, donde desarrollé mis habilidades en lógica de programación, trabajo en equipo y resolución de problemas. Participé en diversas competencias de índole nacional, con invitados de universidades de México y Argentina, cerrando un ciclo de crecimiento en programación competitiva.
+Formé parte del `Semillero de Programación Competitiva` de mi universidad y *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, 2 veces en ICPC Colombia National Programming Contest 2023-2024.
 
-Mi enfoque personal se centra en la Seguridad Informática, CTFs y aspiro a conseguir diferentes certificaciones del sector como *eJPT*, *eWPT*, *eCPPT*, *OSCP*. Y las certificaciones de *CISCO* para redes de datos.
+Mi enfoque personal es Seguridad Informática, proximo a *eJPT*, *eWPT*, *eCPPT*, *OSCP*. Y las certificaciones de *CISCO* para redes de datos.
 
 Mi objetivo como Ingeniero es lograr los mejores resultados posibles.
 
