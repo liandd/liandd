@@ -6,7 +6,7 @@ Noveno semestre Ingeniería en Sistemas y Telecomunicaciones en *[Universidad Ca
 
 Formé parte del `Semillero de Programación Competitiva` de mi universidad y *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, 2 veces en ICPC Colombia National Programming Contest 2023-2024.
 
-Mi enfoque es Seguridad Informática, próximo a *eJPT*, *eWPT*, *eCPPT*, *OSCP*. Y las certificaciones de *CISCO* para redes de datos.
+Mi enfoque es Seguridad Informática, preparando el *eJPT*, próximo a *eWPT*, *eCPPT*, *OSCP*. Y las certificaciones de *CISCO* para redes de datos.
 
 Hago ingeniería.
 
