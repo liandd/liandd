@@ -50,20 +50,6 @@ Hago ingeniería.
   
   
 </details>
-
-# Certificaciones y Títulos.
-Estas son las certificaciones que actualmente dispongo:
-- Motivación y Liderazgo (Servicio Nacional De Aprendizaje - SENA)
-- Informática Básica (Servicio Nacional De Aprendizaje - SENA)
-- Técnico en Programación de Software (Servicio Nacional De Aprendizaje - SENA)
-- Fortalecimiento de la Lógica y el Pensamiento Matemático como Herramienta en el campo de la Tecnología (Servicio Nacional De Aprendizaje - SENA)
-- Lenguaje C de Cero a Experto (Udemy)
-- Lenguaje C++ de Cero a Experto (Udemy)
-- Python para Principiantes (Udemy)
-- Beggining Bash Scrpting (Udemy)
-- Hacking Ético a PC’s con Malware (Udemy)
-- Introducción al Hacking Ético - Para principiantes(Udemy)
-- Pronto Introducción a la Ciberseguridad CISCO
   
 
 <!--**liandd/liandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
