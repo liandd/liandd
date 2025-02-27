@@ -44,9 +44,9 @@ Hago ingeniería.
 <details>
 
   <summary>Estadísticas Github 📊</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=liandd&count_private=true&show_icons=true&theme=dracula&title_color=a8326b&cache_seconds=86400&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=dracula">
   
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=chartreuse-dark"> |
-| ------------- |
   
   
 </details>
