@@ -54,13 +54,13 @@ Hago ingeniería.
       </td>
       <td align="center" style="padding: 10px;">
         <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=dracula">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=dracula&title_color=a8326b&locale=es">
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=dracula&title_color=a8326b&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
