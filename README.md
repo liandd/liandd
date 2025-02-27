@@ -46,7 +46,7 @@ Hago ingeniería.
   <summary>Estadísticas Github 📊</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=liandd&count_private=true&show_icons=true&theme=dracula&title_color=a8326b&cache_seconds=86400&locale=es" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liandd&layout=compact&hide=TSQL&theme=dracula">
-  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=liandd&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
   
   
 </details>
