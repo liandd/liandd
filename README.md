@@ -1,6 +1,6 @@
 ## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋🏻 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34eb80&width=435&lines=i+do+CTF/+Champagne+n+Toasts+for+Fun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2EEC&width=435&lines=i+do+CTF/+Champagne+n+Toasts+for+Fun)](https://git.io/typing-svg)
 
 Noveno semestre Ingeniería en Sistemas y Telecomunicaciones en *[Universidad Católica De Pereira.](https://ucp.edu.co)*.
 
@@ -9,18 +9,18 @@ Formé parte del `Semillero de Programación Competitiva` de mi universidad y *I
 ### Mi retro blog 💾
 > Visita mi blog, subo writeups de HackTheBox y Publicaciones varias *[Click Aquí](https://liandd.github.io)*. 
 
-![](https://komarev.com/ghpvc/?username=liandd&color=1f914e)
+![](https://komarev.com/ghpvc/?username=liandd&color=D445C5)
 
 ### Lo que se 🛠
-![C/C++](https://img.shields.io/badge/-c++-34eb80?logo=cplusplus&logoColor=black&style=for-the-badge)&nbsp;
-![Java](https://img.shields.io/badge/Java-05b54e?logo=java&logoColor=black&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Python-1f914e?style=for-the-badge&logo=python&logoColor=black)&nbsp;
-![NLP](https://img.shields.io/badge/NLP-05b54e?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![C/C++](https://img.shields.io/badge/-c++-0020DB?logo=cplusplus&logoColor=black&style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/Java-000B74?logo=java&logoColor=black&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/Python-383878?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-00094E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![ML](https://img.shields.io/badge/ML-121011?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LinuX](https://img.shields.io/badge/LINUX-00000F?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-1f914e.svg?style=for-the-badge&logo=latex&logoColor=black)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-0C77EB.svg?style=for-the-badge&logo=latex&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
