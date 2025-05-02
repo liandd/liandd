@@ -4,7 +4,7 @@
 
 Noveno semestre Ingeniería en Sistemas y Telecomunicaciones en *[Universidad Católica De Pereira.](https://ucp.edu.co)*.
 
-Formé parte del `Semillero de Programación Competitiva` de mi universidad y *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, 2 veces en ICPC Colombia National Programming Contest 2023-2024, y demás eventos como invitado de Programación Competitiva Gracias a UTP (Regional Brasileña 2024, Latin American 2024 Online Codeforces).
+Formé parte del `Semillero de Programación Competitiva` de mi universidad y *In Silico* de la *[Universidad Tecnológica De Pereira](https://utp.edu.co/)*, 2 veces en ICPC Colombia National Programming Contest 2023-2024, y demás eventos como invitado de Programación Competitiva Gracias a UTP (Regional Brasileña 2024, Latin American 2024 Online Codeforces, Gran Fecha 1 y 2 México ICPC).
 
 ### Mi retro blog 💾
 > Visita mi blog, subo writeups de HackTheBox y Publicaciones varias *[Click Aquí](https://liandd.github.io)*. 
