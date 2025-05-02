@@ -1,6 +1,6 @@
 ## Hola! Soy Juan [(aka liandd)](https://liandd.github.io) 👋🏻 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2EEC&width=435&lines=i+do+CTF/+Champagne+n+Toasts+for+Fun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2EEC&width=435&lines=i+do+CTF/+Champagne+%26+Toasts+for+Fun)](https://git.io/typing-svg)
 
 Noveno semestre Ingeniería en Sistemas y Telecomunicaciones en *[Universidad Católica De Pereira.](https://ucp.edu.co)*.
 
