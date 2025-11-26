@@ -11,7 +11,7 @@ Ingeniero en sistemas y telecomunicaciones egresado de la [UCP](https://ucp.edu.
 [<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-garciaa2/)
 [<img src = "https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black">](https://www.youtube.com/@liandd) 
 [<img src = "https://img.shields.io/badge/Hack The Box-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://app.hackthebox.com/profile/1098514)
-[<img src = "https://img.shields.io/badge/Hoja_de_Vida-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://github.com/liandd/liandd/blob/main/Juan%20david%20garcia%20acevedo.pdf)
+[<img src = "https://img.shields.io/badge/Hoja_de_Vida-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://github.com/liandd/liandd/blob/main/Hoja_de_vida_Juan_David_García_Acevedo.pdf)
 </p>
   
 
