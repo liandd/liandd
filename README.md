@@ -14,6 +14,7 @@ Ingeniero en sistemas y telecomunicaciones egresado de la [UCP](https://ucp.edu.
 [<img src = "https://img.shields.io/badge/Hoja_de_Vida-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://github.com/liandd/liandd/blob/main/Hoja_de_vida_Juan_David_García_Acevedo.pdf)
 [<img src = "https://img.shields.io/badge/Excel_Comunitario-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://docs.google.com/spreadsheets/d/1YkXaCp-AiuapueZuZIbVfVKiTJVE5j5E/edit?usp=sharing&ouid=114780972477706780577&rtpof=true&sd=true)
 </p>
-  
+
+Ciberseguridad y Hacking ético (Red Team), enfocado a certs como: CRTA, eJPT, eCCPT, eWPTX, OSCP, OSWE, BSCP.
 
 <!--**liandd/liandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
