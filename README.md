@@ -1,9 +1,5 @@
 ## [(aka liandd)](https://liandd.github.io) ![](https://komarev.com/ghpvc/?username=liandd&color=000000)
 
-Ciberseguridad y Hacking ético (Red Team), enfocado a certs como: eCCPT, eWPTX, OSCP, OSWE, BSCP.
-
-Hago Pentesting / Red Teaming y Bug Bounty mediante Vulnerability Disclosure Programs.
-
 Ingeniero en sistemas y telecomunicaciones egresado de la [UCP](https://ucp.edu.co) y monitor académico de metodología de la programación II 2023-2 y 2024-1. Hice programación competitiva en la [UTP](https://utp.edu.co) y particapante en los eventos: [UTP Open 2023](https://www.ucp.edu.co/noticias/semillero-coders-obtiene-primer-puesto-en-utp-open-2023/), 2x ICPC Colombia [2023](https://www.ucp.edu.co/noticias/semillero-coders-participa-en-la-xxxviii-maraton-nacional-de-programacion/) [2024](https://www.ucp.edu.co/noticias/los-programas-ist-y-tds-participan-en-la-xxxvii-maraton-nacional-de-programacion/) | [Maratón Latin American Online 2024](https://www.linkedin.com/in/juan-garciaa2/overlay/experience/2117259900/multiple-media-viewer/?profileId=ACoAAEB7hMABGC3CrdED__eZN_PQHi-THgLMmbY&treasuryMediaId=1746409875544) [Codeforces](https://codeforces.com/gym/105053) & [Maratón Brazil Regional 2024](https://codeforces.com/gym/105327) [RPC](https://redprogramacioncompetitiva.com), Maratón México Gran Fecha 2024 [1](https://codeforces.com/gym/105164) [2](https://codeforces.com/gym/105216) [codeforces](https://codeforces.com/profile/liandd).
 
 > Publicaciones en mi blog como soporte en mi aprendizaje y desarrollo profesional *[aquí](https://liandd.github.io/)*. 
