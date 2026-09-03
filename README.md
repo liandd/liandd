@@ -1,7 +1,15 @@
 ## Juan G. Acevedo B.Sc., ![](https://komarev.com/ghpvc/?username=liandd&color=000000)
 
-Ingeniero en Sistemas y Telecomunicaciones [eJPT / Web-RTA / AD-RTS / CRTA].
-- HackTheBox 51 boxes
+Ingeniero en Sistemas y Telecomunicaciones, tesis en ideas suicidas y salud mental mediante Procesamiento de lenguaje (PLN) con nota 5.0 y mención honorifica de tesis meritoria.
+
+Pronto se publicará mi articulo científico sobre salud mental y suicidio categorizada B elaborado desde una residencia en línea de investigación.
+
+He trabajado desplegando agentes conversacionales con Procesamiento de Lenguaje Natural (PLN). 
+
+Tengo el eJPT, Web-RTA, AD-RTS y CRTA como certs de Ciberseguridad y Hacking ético (Red Team). Mi reto actual es el PT1 de TryHackMe.
+
+Me gusta la investigación sobre PLN, Ontologías Computacionales, sistemas de reglas y heurísticas y aspiro a ser M.Sc.,. Actualmente he sido fichado para entrenar con un equipo de Ciberseguridad en la plataforma HackTheBox de la región para representar a Risaralda en eventos de Hacking.
+- HackTheBox 59 boxes
 - Monitor académico de Programación Orientada a Objetos (12 Meses en Universidad Católica de PEI).
 - Programación competitiva en:
   - [UTP Open 2023](https://www.ucp.edu.co/noticias/semillero-coders-obtiene-primer-puesto-en-utp-open-2023/).
