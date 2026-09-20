@@ -20,11 +20,11 @@ Me gusta la investigación sobre PLN, Ontologías Computacionales, sistemas de r
   - Maratón México Gran Fecha 2024 [1](https://codeforces.com/gym/105164)
   - Maraton México Gran Fecha 2024 [2](https://codeforces.com/gym/105216)
 
-> Publicaciones en mi blog como soporte en mi aprendizaje y desarrollo profesional *[aquí](https://liandd.github.io/)*. 
+> Publicaciones en mi blog como soporte en mi aprendizaje y desarrollo profesional *[aquí](https://forumz.liandd.cc)*. 
 
 <p align = "center">
   
-[<img src = "https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://liandd.github.io)
+[<img src = "https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://forumz.liandd.cc)
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black">](https://x.com/lianndd_) 
 [<img src = "https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-garciaa2/)
 [<img src = "https://img.shields.io/badge/youtube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black">](https://www.youtube.com/@liandd) 
